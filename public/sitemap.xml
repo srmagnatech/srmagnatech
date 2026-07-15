@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://YOUR_DOMAIN/</loc>
+    <loc>https://srmagnatech.com/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://YOUR_DOMAIN/about</loc>
+    <loc>https://srmagnatech.com/about</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://YOUR_DOMAIN/products</loc>
+    <loc>https://srmagnatech.com/products</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://YOUR_DOMAIN/products/power-transformers</loc>
+    <loc>https://srmagnatech.com/products/power-transformers</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://YOUR_DOMAIN/products/ferrite-transformers</loc>
+    <loc>https://srmagnatech.com/products/ferrite-transformers</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://YOUR_DOMAIN/products/line-filters</loc>
+    <loc>https://srmagnatech.com/products/line-filters</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://YOUR_DOMAIN/products/industrial-inductors</loc>
+    <loc>https://srmagnatech.com/products/industrial-inductors</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://YOUR_DOMAIN/products/ferrite-rod</loc>
+    <loc>https://srmagnatech.com/products/ferrite-rod</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://YOUR_DOMAIN/products/toroidal-inductors</loc>
+    <loc>https://srmagnatech.com/products/toroidal-inductors</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://YOUR_DOMAIN/manufacturing</loc>
+    <loc>https://srmagnatech.com/manufacturing</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://YOUR_DOMAIN/gallery</loc>
+    <loc>https://srmagnatech.com/gallery</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://YOUR_DOMAIN/contact</loc>
+    <loc>https://srmagnatech.com/contact</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
